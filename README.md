@@ -1,3 +1,6 @@
+![Hasil Praktikum4 py](https://github.com/user-attachments/assets/6be9a260-7593-4eea-b7ad-782294f7c748)
+
+
 Gambar tersebut menunjukkan hasil dari sebuah program input data mahasiswa yang mencatat nama, NIM, nilai tugas, UTS, dan UAS, lalu menghitung nilai akhir berdasarkan input nilai-nilai tersebut. Berikut langkah-langkah yang terjadi dalam program:
 1. Input Data Mahasiswa Pertama:
 Nama: syalsha
