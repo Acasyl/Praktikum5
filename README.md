@@ -25,8 +25,7 @@ Untuk Syalsha, nilai akhir adalah 80.00, dan untuk Galang adalah 79.50.
 Hasil tersebut menunjukkan data kedua mahasiswa yang dimasukkan beserta nilai akhirnya.
 
 
-
-
+![Hasil Latihan py](https://github.com/user-attachments/assets/c6730ab3-dc31-4879-a915-3237f5b16f23)
 
 
 1. Membuat List Awal:
